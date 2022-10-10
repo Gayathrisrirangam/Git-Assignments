@@ -1,8 +1,5 @@
 2nd text file for css assginment
 minor changes of 5th step
-<<<<<<< HEAD
-again minor changes in 8th step
-=======
 again minor changes in 8th step
 minor changes in section 2 of 10th step
->>>>>>> css-assignments
+changing again

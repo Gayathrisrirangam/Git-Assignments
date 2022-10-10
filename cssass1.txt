@@ -1,8 +1,3 @@
 Css assignment
-<<<<<<< HEAD
-minor changes of 5th step
-again minor changes in 8th step
-=======
 minor changes of 5th sminor changes in section 2 of 10th steptep
-again minor changes in 8th step
->>>>>>> css-assignments
+again minor changes in 8th stage
